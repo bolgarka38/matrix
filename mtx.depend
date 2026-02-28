@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1772303032 source:a:\ff\mtx\main.c
+	"mtx.h"
+	<stdio.h>
+	<math.h>
+	<locale.h>
+
+1772302885 a:\ff\mtx\mtx.h
+	<stddef.h>
+
+1772302885 source:a:\ff\mtx\matrix.c
+	"mtx.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
